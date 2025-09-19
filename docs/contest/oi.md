@@ -58,6 +58,8 @@ CSP-J/S 分为入门级（Junior，简写为 CSP-J）与提高级（Senior，简
 
 两轮测试都会以省为单位按照排名对选手成绩进行评级认证，分为一、二、三等。
 
+一般来说，大部分选手获得CSP-J一等奖/CSP-S二等奖及以上的奖项就可以算是科技特长生。
+
 ### NOIP
 
 **NOIP**（英语：National Olympiad in Informatics in Provinces，中文：全国青少年信息学奥林匹克联赛）是中华人民共和国组织的、面向中国（含港澳）中学生的信息学竞赛。
